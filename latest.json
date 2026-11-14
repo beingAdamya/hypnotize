@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "date": "2026-11-14T14:58:12.815Z",
+  "notes": "First release.\n- Sign-in, completed: confirm your email, reset a forgotten password, change your password or email, two-step sign-in with recovery codes, passkeys, Continue with Google or Apple, a list of your devices with \"sign out everywhere else\", and delete account (needs your password). Sign-up never reveals whether an address already has an account.\n- Profiles: separate libraries, taste and settings for each person, optional PIN, kids profiles. \"Who's watching?\" on every device, including Apple TV.\n- Everything syncs across devices now: your taste, where you stopped watching (\"Resume at 23:10\"), and each setting separately, so two devices changing different things no longer undo each other.\n- \"Ask me about conflicts\" on a linked site: when something changed on both sides, you choose instead of the newest edit winning.\n- Apple TV: sign in with a QR code or a code, stats, filters and sorting on every tab, theme builder and theme codes, profiles.\n- One shared app: Android phones, tablets, Android TV, Google TV, Fire TV, iPhone and iPad now run the same app as the website, TVs and desktop, so every screen and feature matches. Apple TV keeps its own small app (it can't show web pages).\n- Android and iPhone/iPad: import from Netflix, Prime Video, Crunchyroll, Disney+ and JioHotstar pages inside the app; open history files shared from other apps; the remote's Back button works on Android TV.\n- Security review: sign-in tokens no longer appear in web addresses, stronger server secrets, safer updates and release builds (docs/SECURITY.md).\n- Recommendations on Home, the same on every device: Top picks, Continue the story, Because you liked…, Hidden gems, Quick watches, Something different, and your watchlist ranked by match. Each pick shows a % match and why it's there.\n- \"⋯\" on any pick: More like this, Less like this, Not interested, Don't recommend this series.\n- Your taste: see the topics behind your picks and set More, Less or Never; pick favourites to get started.\n- \"People also liked\" from everyone who allows anonymous sharing (a pair needs at least 5 people).\n- \"How was it?\" after finishing: Skip it, Okay once, Worth it or Must see. Also available as a rating scale.\n- Episode ratings heatmap on series pages.\n- Lists from links: paste a list link (Stremio-style catalog or a GitHub repo) to add its lists as rows on Home. Titles only.\n- Yearly goals and streaks in Stats. Books' Dropped is now \"Did not finish\".\n\n- Movies, series, anime, cartoons, books and manga in one streaming-style app on phones, tablets, TVs, computers and the web.\n- Import Netflix, Letterboxd, IMDb, Goodreads, MyAnimeList, Trakt and TV Time history.\n- Two-way sync with AniList, MyAnimeList, Simkl, Trakt, TMDB, Hardcover, Shikimori and Bangumi.\n- Automatic tracking with the browser extension, on Android, and from Plex, Jellyfin, Emby and Kodi.\n- Nine themes plus your own, the same on every device.",
+  "url": "https://github.com/beingAdamya/hypnotize/releases/tag/v0.1.0",
+  "assets": {
+    "android": {
+      "name": "hypnotize-android-0.1.0.apk",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/hypnotize-android-0.1.0.apk",
+      "size": 3496539,
+      "sha256": "3274233df85d698049f407858c5f472af3bd427cd03211a34eb7ac1d73754176"
+    },
+    "chrome": {
+      "name": "hypnotize-chrome-0.1.0.zip",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/hypnotize-chrome-0.1.0.zip",
+      "size": 45053,
+      "sha256": "0e780e2300aeb1aa3b8b730d73911ec32f0d0aa2b57aedac1561f54cfd4c415f"
+    },
+    "firefox": {
+      "name": "hypnotize-firefox-0.1.0.xpi",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/hypnotize-firefox-0.1.0.xpi",
+      "size": 45149,
+      "sha256": "13bf399a7087792c299b307a48e0305ee8eb9c3b297ed8294c113fc49df20c2a"
+    },
+    "kodi": {
+      "name": "service.hypnotize-0.1.0.zip",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/service.hypnotize-0.1.0.zip",
+      "size": 10076,
+      "sha256": "a15abba39d81c2906bc622823a03dc6aa80896ee483988801362f2985beb2721"
+    },
+    "webos": {
+      "name": "hypnotize-webos-0.1.0.ipk",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/hypnotize-webos-0.1.0.ipk",
+      "size": 324256,
+      "sha256": "c6fc6c500941aec9624d62cbd9c805cb2cf47b85f7c5d1b0eb7a33f054a6ea4a"
+    },
+    "web": {
+      "name": "hypnotize-web-0.1.0.zip",
+      "url": "https://github.com/beingAdamya/hypnotize/releases/download/v0.1.0/hypnotize-web-0.1.0.zip",
+      "size": 325850,
+      "sha256": "5d17176d753b2b063b79f05ff698f858dbe34045e48cdf5e6ffc11b38014e55e"
+    }
+  }
+}
